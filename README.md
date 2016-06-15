@@ -1,0 +1,1 @@
+## Sindec - Data Analaysis com Pandas
